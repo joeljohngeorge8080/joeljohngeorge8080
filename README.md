@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Skills
-`Linux` `Bash` `Python` `Docker` `Git` `AWS` `Networking` `Cybersecurity Basics` `Java` `C` `HTML` `JavaScript` `WebDevelopment`
+`Linux` `Bash` `Python` `Docker` `Git` `AWS` `Networking` `Cybersecurity Basics` `Java` `C` `HTML` `JavaScript` `WebDevelopment` `AiPrompt`
 
 ---
 
