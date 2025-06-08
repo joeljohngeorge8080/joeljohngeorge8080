@@ -29,7 +29,7 @@
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-Joel_John-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/your-link)](https://www.linkedin.com/in/joel-john-george-716874287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/your-link)](https://www.linkedin.com/in/joel-john-george-716874287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/joeljohngeorge8080)
 
 ---
