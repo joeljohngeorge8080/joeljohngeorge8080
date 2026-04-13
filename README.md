@@ -249,15 +249,17 @@ I'm a **Computer Science student** with hands-on expertise in:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joeljohngeorge&theme=tokyonight&show_icons=true&count_private=true&hide_border=true)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joeljohngeorge&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joeljohngeorge&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joeljohngeorge&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joeljohngeorge&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
 
----
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=joeljohngeorge&theme=tokyonight&hide_border=true" height="150"/>
+
+</div>
 
 ## 🚀 Tech Stack & Expertise
 
