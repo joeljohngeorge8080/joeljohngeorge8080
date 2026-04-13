@@ -242,7 +242,7 @@ Made with ❤️ by Joel John George
 
 ## 📝 Fun Facts
 
-- 🐧 **Favorite OS:** Ubuntu & Parrot OS
+- 🐧 **Favorite OS:** Parrot OS
 - ⌨️ **Terminal Enthusiast:** Vim > Visual Studio Code (sometimes)
 - 🔍 **Security Researcher:** Actively exploring threat detection systems
 - 🎮 **Linux Gamer:** Proton + Steam on Linux FTW
