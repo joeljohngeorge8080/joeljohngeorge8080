@@ -1,4 +1,7 @@
-# 👋 Joel John George
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Joel+John+George;DevOps+%7C+Cybersecurity;Building+Real+Systems" />
+</div>
+
 
 <div align="center">
   
@@ -194,15 +197,13 @@ I'm a **Computer Science student** with hands-on expertise in:
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joeljohngeorge&theme=tokyonight&show_icons=true&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joeljohngeorge&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
 
 ---
 
@@ -255,3 +256,4 @@ Made with ❤️ by Joel John George
 **Last Updated:** 2024 | **Always Learning, Always Building** 🚀
 
 </div>
+
