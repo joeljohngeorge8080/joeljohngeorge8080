@@ -30,12 +30,12 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=joeljohngeorge8080&theme=midnight-purple&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://raw.githubusercontent.com/joeljohngeorge8080/joeljohngeorge8080/output/stats.svg" alt="GitHub Stats" />
       <br/><br/>
       <img src="https://streak-stats.demolab.com/?user=joeljohngeorge8080&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeljohngeorge8080&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+      <img src="https://raw.githubusercontent.com/joeljohngeorge8080/joeljohngeorge8080/output/top-langs.svg" alt="Top Languages" />
     </td>
   </tr>
 </table>
