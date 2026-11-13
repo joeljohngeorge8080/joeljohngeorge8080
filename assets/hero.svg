@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="t d">
+  <title id="t">Joel John George</title>
+  <desc id="d">Cloud, DevOps, Linux and Security. Let's build, automate and secure.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="0.6" stop-color="#14123a"/><stop offset="1" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e0e7ff"/><stop offset="0.55" stop-color="#a5b4fc"/><stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+    <linearGradient id="line" gradientUnits="userSpaceOnUse" x1="56" y1="0" x2="176" y2="0">
+      <stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.85" cy="0.15" r="0.6">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.28"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.1" cy="1" r="0.7">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.35"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#818cf8" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect width="1000" height="340" rx="20"/></clipPath>
+  </defs>
+  <style>
+    .mono { font-family: 'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+    .sans { font-family: Inter,'Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif; }
+    .rise { animation: rise .8s ease-out backwards; }
+    .d1 { animation-delay: .1s; } .d2 { animation-delay: .35s; } .d3 { animation-delay: .6s; } .d4 { animation-delay: .85s; }
+    .blink { animation: blink 1.1s steps(1) infinite; }
+    .pulse { animation: pulse 3.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .p2 { animation-delay: .8s; } .p3 { animation-delay: 1.6s; } .p4 { animation-delay: 2.4s; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes pulse { 0%,100% { opacity: .55; transform: scale(1); } 50% { opacity: 1; transform: scale(1.35); } }
+    @media (prefers-reduced-motion: reduce) { .rise,.blink,.pulse { animation: none; } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="340" fill="url(#bg)"/>
+    <rect width="1000" height="340" fill="url(#grid)"/>
+    <rect width="1000" height="340" fill="url(#glowA)"/>
+    <rect width="1000" height="340" fill="url(#glowB)"/>
+
+    <!-- network motif (right) -->
+    <g stroke="#818cf8" stroke-opacity="0.35" stroke-width="1.2" fill="none">
+      <path d="M690 70 L790 120 L880 70 L940 160 L850 215 L760 190 L690 70"/>
+      <path d="M790 120 L850 215"/><path d="M760 190 L690 255 L850 215"/><path d="M880 70 L850 215"/>
+    </g>
+    <g>
+      <circle class="pulse" cx="690" cy="70"  r="5" fill="#22d3ee"/>
+      <circle class="pulse p2" cx="790" cy="120" r="6" fill="#818cf8"/>
+      <circle class="pulse p3" cx="880" cy="70"  r="5" fill="#22d3ee"/>
+      <circle class="pulse p4" cx="940" cy="160" r="5" fill="#a5b4fc"/>
+      <circle class="pulse p2" cx="850" cy="215" r="7" fill="#22d3ee"/>
+      <circle class="pulse p3" cx="760" cy="190" r="5" fill="#818cf8"/>
+      <circle class="pulse" cx="690" cy="255" r="5" fill="#a5b4fc"/>
+    </g>
+
+    <!-- window chrome -->
+    <rect x="0" y="0" width="1000" height="44" fill="#ffffff" fill-opacity="0.04"/>
+    <circle cx="28" cy="22" r="6" fill="#f87171"/><circle cx="50" cy="22" r="6" fill="#fbbf24"/><circle cx="72" cy="22" r="6" fill="#34d399"/>
+    <text class="mono" x="500" y="27" text-anchor="middle" font-size="13" fill="#94a3b8">joel@portfolio: ~</text>
+
+    <!-- content -->
+    <text class="mono rise d1" x="56" y="98" font-size="16" fill="#22d3ee">$ whoami</text>
+    <text class="sans rise d2" x="54" y="168" font-size="64" font-weight="800" fill="url(#name)" letter-spacing="-1.5">Joel John George</text>
+    <text class="mono rise d3" x="56" y="212" font-size="20" fill="#e2e8f0">Cloud <tspan fill="#6366f1">|</tspan> DevOps <tspan fill="#6366f1">|</tspan> Linux <tspan fill="#6366f1">|</tspan> Security</text>
+    <rect class="rise d3" x="56" y="232" width="120" height="3" rx="1.5" fill="url(#line)"/>
+    <text class="mono rise d4" x="56" y="276" font-size="17" fill="#94a3b8">&gt; Let's build, automate &amp; secure.<tspan class="blink" fill="#22d3ee">_</tspan></text>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="339" rx="19.5" fill="none" stroke="#818cf8" stroke-opacity="0.35"/>
+</svg>
