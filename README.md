@@ -140,7 +140,7 @@
 <h2 align="center">📡 Connect & Collaborate</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+  <a href="https://www.linkedin.com/in/joel-john-george-716874287/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:hmacommunicationsteam@gmail.com">
